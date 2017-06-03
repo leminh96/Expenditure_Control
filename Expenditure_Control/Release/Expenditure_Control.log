@@ -1,0 +1,40 @@
+﻿  Expenditure_Control.cpp
+d:\projects\win32 project\expenditure_control\expenditure_control\Expenditure_Control.h(23): warning C4305: 'initializing': truncation from 'double' to 'float'
+Expenditure_Control.cpp(239): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+Expenditure_Control.cpp(261): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+Expenditure_Control.cpp(234): warning C4101: 'money_buff': unreferenced local variable
+Expenditure_Control.cpp(233): warning C4101: 'content_buff': unreferenced local variable
+Expenditure_Control.cpp(232): warning C4101: 'type_buff': unreferenced local variable
+Expenditure_Control.cpp(285): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+Expenditure_Control.cpp(289): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+Expenditure_Control.cpp(293): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+Expenditure_Control.cpp(297): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+Expenditure_Control.cpp(301): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+Expenditure_Control.cpp(305): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+Expenditure_Control.cpp(479): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Expenditure_Control.cpp(481): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Expenditure_Control.cpp(483): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Expenditure_Control.cpp(485): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Expenditure_Control.cpp(487): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Expenditure_Control.cpp(489): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Expenditure_Control.cpp(522): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Expenditure_Control.cpp(523): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Expenditure_Control.cpp(524): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Expenditure_Control.cpp(525): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Expenditure_Control.cpp(526): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Expenditure_Control.cpp(527): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Expenditure_Control.cpp(537): warning C4018: '<': signed/unsigned mismatch
+Expenditure_Control.cpp(567): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Expenditure_Control.cpp(568): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Expenditure_Control.cpp(569): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Expenditure_Control.cpp(570): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Expenditure_Control.cpp(571): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Expenditure_Control.cpp(572): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Expenditure_Control.cpp(582): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  2 of 143 functions ( 1.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Expenditure_Control.vcxproj -> D:\Projects\Win32 Project\Expenditure_Control\Release\Expenditure_Control.exe
+  Expenditure_Control.vcxproj -> D:\Projects\Win32 Project\Expenditure_Control\Release\Expenditure_Control.pdb (Full PDB)
